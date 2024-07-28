@@ -1,35 +1,36 @@
-#ifndef LISTAL_H_INCLUDED
-#define LISTAL_H_INCLUDED
+#ifndef LISTAR_H_INCLUDED
+#define LISTAR_H_INCLUDED
+
 #include <stdio.h>
 #include <stdlib.h>
-#include "Livro.h"
+#include "Requesicao.h"
 
-typedef struct no
+typedef struct nor
 {
-    LIVRO *Info;
-    struct no *Prox;
-}NO;
+    REQUISITANTE *Info;
+    struct nor *Prox;
+}NOR;
 
 typedef struct
 {
     int NEL;
-    NO *Inicio;
-}LISTAL;
+    NOR *Inicio;
+}LISTARR;
 
-LISTAL *CriarListaL();
+LISTARR *CriarListaR();
 //--------------------------------------------------
-void AddInicioL(LISTAL *L, LIVRO *X);
+void AddInicioR(LISTARR *R, REQUISITANTE *X);
 //--------------------------------------------------
-void ShowListaL(LISTAL *L);
+void ShowListaR(LISTARR *R);
 //--------------------------------------------------
-void DestruirListaL(LISTAL *L);
+void DestruirListaR(LISTARR *R);
 //--------------------------------------------------
 //--------------------------------------------------
-int SizeListaL(LISTAL *L);
+int SizeListaR(LISTARR *R);
 //--------------------------------------------------
 //--------------------------------------------------
 //--------------------------------------------------
 //--------------------------------------------------
 //--------------------------------------------------
 
-#endif // LISTAL_H_INCLUDED
+#endif // LISTAR_H_INCLUDED

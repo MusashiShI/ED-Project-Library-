@@ -1,5 +1,5 @@
 
-#include "ListaL.h"
+#include "ListaP.h"
 
 
 //--------------------------------------------------
@@ -9,66 +9,62 @@
  * \date 10/04/2024
  * \author Docentes de ED
  */
-LISTAL *CriarListaL()
+LISTAP *CriarListaP()
 {
-    LISTAL *L = (LISTAL *)malloc(sizeof(LISTAL));
-    L->NEL = 0;
-    L->Inicio = NULL;
-    return L;
+    LISTAP *P = (LISTAP *)malloc(sizeof(LISTAP));
+    P->NEL = 0;
+    P->Inicio = NULL;
+    return P;
 }
 
 //--------------------------------------------------
-void AddInicioL(LISTAL *L, LIVRO *X)
+void AddInicioP(LISTAP *P, PESSOA *X)
 {
-    if (!L) return;
-    NO *aux = (NO *)malloc(sizeof(NO));
+    if (!P) return;
+    NOp *aux = (NOp *)malloc(sizeof(NOp));
     aux->Info = X;
-    aux->Prox = L->Inicio;
-    L->Inicio = aux;
-    L->NEL++;
+    aux->Prox = P->Inicio;
+    P->Inicio = aux;
+    P->NEL++;
 }
 
 //--------------------------------------------------
-void ShowListaL(LISTAL *L)
+void ShowListaP(LISTAP *Pe)
 {
-    if (!L) return;
+    if (!Pe) return;
     //printf("NEL = %d\n", L->NEL);
-    NO *P = L->Inicio;
+    NOp *P = Pe->Inicio;
     while (P != NULL)
     {
-        MostrarLivro(P->Info);
+        MostrarPessoa(P->Info);
         P = P->Prox;
     }
 }
 
 //--------------------------------------------------
-void DestruirListaL(LISTAL *L)
+void DestruirListaP(LISTAP *P)
 {
     //printf("Implementar <%s>\n", __func__);
-    if (!L) return;
-    NO *Martim;
-    NO *Helder = L->Inicio;
+    if (!P) return;
+    NOp *Martim;
+    NOp *Helder = P->Inicio;
     while (Helder)
     {
         Martim = Helder->Prox;
-        DestruirLivro(Helder->Info);
+        DestruirPessoa(Helder->Info);
         free (Helder);
         Helder = Martim;
     }
-    free(L);
+    free(P);
 }
 
 //--------------------------------------------------
-
 //--------------------------------------------------
-int SizeListaL(LISTAL *L)
+int SizeListaP(LISTAP *p)
 {
-    if (!L) return -1;
-    return L->NEL;
+    if (!p) return -1;
+    return p->NEL;
 }
-
-
-
 //--------------------------------------------------
 //--------------------------------------------------
 //--------------------------------------------------

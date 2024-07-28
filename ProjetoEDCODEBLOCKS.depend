@@ -18,47 +18,471 @@
 	<stdlib.h>
 	<string.h>
 
-1716886015 source:c:\users\raitsu\desktop\work\projetoedcodeblocks\listal.c
+1717021862 source:c:\users\raitsu\desktop\work\projetoedcodeblocks\listal.c
 	"ListaL.h"
 
-1716830376 source:c:\users\raitsu\desktop\work\projetoedcodeblocks\pessoa.c
+1716993190 source:c:\users\raitsu\desktop\work\projetoedcodeblocks\pessoa.c
 	"Pessoa.h"
 
-1716830324 c:\users\raitsu\desktop\work\projetoedcodeblocks\pessoa.h
+1717143305 c:\users\raitsu\desktop\work\projetoedcodeblocks\pessoa.h
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 
-1716971418 source:c:\users\raitsu\desktop\work\projetoedcodeblocks\main.c
+1717022504 source:c:\users\raitsu\desktop\work\projetoedcodeblocks\main.c
 	<stdio.h>
 	<stdlib.h>
 	<locale.h>
 	"ListaL.h"
+	"ListaP.h"
 	"HashingL.h"
+	"HashingP.h"
 	"Biblioteca.h"
 
-1716971598 c:\users\raitsu\desktop\work\projetoedcodeblocks\biblioteca.h
+1717143305 c:\users\raitsu\desktop\work\projetoedcodeblocks\biblioteca.h
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	"Pessoa.h"
 	"Livro.h"
 	"ListaL.h"
+	"ListaP.h"
 	"HashingL.h"
+	"HashingP.h"
 
-1716971593 source:c:\users\raitsu\desktop\work\projetoedcodeblocks\biblioteca.c
+1717021900 source:c:\users\raitsu\desktop\work\projetoedcodeblocks\biblioteca.c
 	"Biblioteca.h"
 
-1716894278 source:c:\users\raitsu\desktop\work\projetoedcodeblocks\livro.c
+1716990358 source:c:\users\raitsu\desktop\work\projetoedcodeblocks\livro.c
 	"Livro.h"
 
-1716884261 source:c:\users\raitsu\desktop\work\projetoedcodeblocks\requesicao.c
+1716993257 source:c:\users\raitsu\desktop\work\projetoedcodeblocks\requesicao.c
 	"Requesicao.h"
 
-1716830371 c:\users\raitsu\desktop\work\projetoedcodeblocks\requesicao.h
+1716993251 c:\users\raitsu\desktop\work\projetoedcodeblocks\requesicao.h
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	"Pessoa.h"
 	"Livro.h"
+
+1716991059 source:c:\users\raitsu\desktop\work\projetoedcodeblocks\hashingr.c
+
+1716993147 source:c:\users\raitsu\desktop\work\projetoedcodeblocks\listar.c
+	"ListaR.h"
+
+1716993076 c:\users\raitsu\desktop\work\projetoedcodeblocks\listar.h
+	<stdio.h>
+	<stdlib.h>
+	"Pessoa.h"
+
+1717142861 source:c:\users\raitsu\desktop\work\projetoedcodeblocks\listap.c
+	"ListaP.h"
+
+1717142829 c:\users\raitsu\desktop\work\projetoedcodeblocks\listap.h
+	<stdio.h>
+	<stdlib.h>
+	"Pessoa.h"
+
+1717143719 source:c:\users\raitsu\desktop\work\projetoedcodeblocks\hashingp.c
+	"HashingP.h"
+
+1717142735 c:\users\raitsu\desktop\work\projetoedcodeblocks\hashingp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaP.h"
+
+1717284320 source:c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\biblioteca.c
+	"Biblioteca.h"
+
+1717284315 c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Pessoa.h"
+	"Livro.h"
+	"ListaL.h"
+	"ListaP.h"
+	"HashingL.h"
+	"HashingP.h"
+
+1717150856 c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\pessoa.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717150856 c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\livro.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717277040 c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\listal.h
+	<stdio.h>
+	<stdlib.h>
+	"Livro.h"
+
+1717283981 c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\listap.h
+	<stdio.h>
+	<stdlib.h>
+	"Pessoa.h"
+
+1717150856 c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\hashingl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaL.h"
+
+1717150856 c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\hashingp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaP.h"
+
+1717150856 source:c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\hashingl.c
+	"HashingL.h"
+
+1717150856 source:c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\hashingp.c
+	"HashingP.h"
+
+1717315282 source:c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\listal.c
+	"ListaL.h"
+
+1717283981 source:c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\listap.c
+	"ListaP.h"
+
+1717150856 source:c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\livro.c
+	"Livro.h"
+
+1717315194 source:c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"ListaL.h"
+	"ListaP.h"
+	"HashingL.h"
+	"HashingP.h"
+	"Biblioteca.h"
+
+1717315371 source:c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\pessoa.c
+	"Pessoa.h"
+
+1717150856 source:c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\requesicao.c
+	"Requesicao.h"
+
+1717150856 c:\users\raitsu\desktop\work\ed-project-biblioteca--edprocject-hashing-dos-livros-e-pessoas-\requesicao.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pessoa.h"
+	"Livro.h"
+
+1717335476 source:c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\hashingl.c
+	"HashingL.h"
+
+1717335476 c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\hashingl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaL.h"
+
+1717335476 c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\listal.h
+	<stdio.h>
+	<stdlib.h>
+	"Livro.h"
+
+1717335476 c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\livro.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717347530 source:c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\hashingp.c
+	"HashingP.h"
+
+1717335476 c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\hashingp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaP.h"
+
+1717335476 c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\listap.h
+	<stdio.h>
+	<stdlib.h>
+	"Pessoa.h"
+
+1717335476 c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\pessoa.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717335476 source:c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\listal.c
+	"ListaL.h"
+
+1717335476 source:c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\listap.c
+	"ListaP.h"
+
+1717335476 source:c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\livro.c
+	"Livro.h"
+
+1717335476 source:c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\pessoa.c
+	"Pessoa.h"
+
+1717346504 source:c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\requesicao.c
+	"Requesicao.h"
+
+1717335477 c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\requesicao.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pessoa.h"
+	"Livro.h"
+
+1717404374 source:c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\biblioteca.c
+	"Biblioteca.h"
+
+1717404422 c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Pessoa.h"
+	"Livro.h"
+	"ListaL.h"
+	"ListaP.h"
+	"HashingL.h"
+	"HashingP.h"
+
+1717348362 source:c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"ListaL.h"
+	"ListaP.h"
+	"HashingL.h"
+	"HashingP.h"
+	"Biblioteca.h"
+	"Texto.h"
+
+1717335893 c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\texto.h
+	"ListaL.h"
+	"ListaP.h"
+	"Biblioteca.h"
+
+1717335894 source:c:\users\ines2\onedrive\ambiente de trabalho\ed-project-biblioteca--main\texto.c
+	"Texto.h"
+	"Livro.h"
+	"Pessoa.h"
+
+1717417754 source:c:\users\raitsu\desktop\ed-project-biblioteca--main\biblioteca.c
+	"Biblioteca.h"
+
+1717417393 c:\users\raitsu\desktop\ed-project-biblioteca--main\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Pessoa.h"
+	"Livro.h"
+	"ListaL.h"
+	"ListaP.h"
+	"ListaR.h"
+	"HashingL.h"
+	"HashingP.h"
+
+1717335478 c:\users\raitsu\desktop\ed-project-biblioteca--main\pessoa.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717335478 c:\users\raitsu\desktop\ed-project-biblioteca--main\livro.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717335478 c:\users\raitsu\desktop\ed-project-biblioteca--main\listal.h
+	<stdio.h>
+	<stdlib.h>
+	"Livro.h"
+
+1717335478 c:\users\raitsu\desktop\ed-project-biblioteca--main\listap.h
+	<stdio.h>
+	<stdlib.h>
+	"Pessoa.h"
+
+1717335478 c:\users\raitsu\desktop\ed-project-biblioteca--main\hashingl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaL.h"
+
+1717335478 c:\users\raitsu\desktop\ed-project-biblioteca--main\hashingp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaP.h"
+
+1717335478 source:c:\users\raitsu\desktop\ed-project-biblioteca--main\hashingl.c
+	"HashingL.h"
+
+1717347532 source:c:\users\raitsu\desktop\ed-project-biblioteca--main\hashingp.c
+	"HashingP.h"
+
+1717335478 source:c:\users\raitsu\desktop\ed-project-biblioteca--main\listal.c
+	"ListaL.h"
+
+1717406852 source:c:\users\raitsu\desktop\ed-project-biblioteca--main\listap.c
+	"ListaP.h"
+
+1717335478 source:c:\users\raitsu\desktop\ed-project-biblioteca--main\livro.c
+	"Livro.h"
+
+1717417393 source:c:\users\raitsu\desktop\ed-project-biblioteca--main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"ListaL.h"
+	"ListaP.h"
+	"HashingL.h"
+	"HashingP.h"
+	"Biblioteca.h"
+	"Texto.h"
+
+1717335894 c:\users\raitsu\desktop\ed-project-biblioteca--main\texto.h
+	"ListaL.h"
+	"ListaP.h"
+	"Biblioteca.h"
+
+1717335478 source:c:\users\raitsu\desktop\ed-project-biblioteca--main\pessoa.c
+	"Pessoa.h"
+
+1717411766 source:c:\users\raitsu\desktop\ed-project-biblioteca--main\requesicao.c
+	"Requesicao.h"
+
+1717407419 c:\users\raitsu\desktop\ed-project-biblioteca--main\requesicao.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pessoa.h"
+	"Livro.h"
+
+1717335896 source:c:\users\raitsu\desktop\ed-project-biblioteca--main\texto.c
+	"Texto.h"
+	"Livro.h"
+	"Pessoa.h"
+
+1717406852 source:c:\users\raitsu\desktop\ed-project-biblioteca--main\listar.c
+	"ListaR.h"
+
+1717406852 c:\users\raitsu\desktop\ed-project-biblioteca--main\listar.h
+	<stdio.h>
+	<stdlib.h>
+	"Requesicao.h"
+
+1717409751 source:c:\users\raitsu\desktop\ed-project-biblioteca--main\addsrequesitante.c
+	"addrequesitante.h"
+
+1717409472 c:\users\raitsu\desktop\ed-project-biblioteca--main\addrequesitante.h
+	"Biblioteca.h"
+
+1717417754 source:c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\biblioteca.c
+	"Biblioteca.h"
+
+1717417393 c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Pessoa.h"
+	"Livro.h"
+	"ListaL.h"
+	"ListaP.h"
+	"ListaR.h"
+	"HashingL.h"
+	"HashingP.h"
+
+1717335478 c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\pessoa.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717335478 c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\livro.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717335478 c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\listal.h
+	<stdio.h>
+	<stdlib.h>
+	"Livro.h"
+
+1717335478 c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\listap.h
+	<stdio.h>
+	<stdlib.h>
+	"Pessoa.h"
+
+1717406852 c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\listar.h
+	<stdio.h>
+	<stdlib.h>
+	"Requesicao.h"
+
+1717407419 c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\requesicao.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pessoa.h"
+	"Livro.h"
+
+1717335478 c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\hashingl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaL.h"
+
+1717335478 c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\hashingp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaP.h"
+
+1717335478 source:c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\hashingl.c
+	"HashingL.h"
+
+1717347532 source:c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\hashingp.c
+	"HashingP.h"
+
+1717335478 source:c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\listal.c
+	"ListaL.h"
+
+1717406852 source:c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\listap.c
+	"ListaP.h"
+
+1717406852 source:c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\listar.c
+	"ListaR.h"
+
+1717335478 source:c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\livro.c
+	"Livro.h"
+
+1717418958 source:c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"ListaL.h"
+	"ListaP.h"
+	"HashingL.h"
+	"HashingP.h"
+	"Biblioteca.h"
+	"Texto.h"
+
+1717335894 c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\texto.h
+	"ListaL.h"
+	"ListaP.h"
+	"Biblioteca.h"
+
+1717335478 source:c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\pessoa.c
+	"Pessoa.h"
+
+1717411766 source:c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\requesicao.c
+	"Requesicao.h"
+
+1717335896 source:c:\users\raitsu\desktop\work\estruturadedadosprojetobiblioteca\edprojectfinal\ed-project-biblioteca--main\texto.c
+	"Texto.h"
+	"Livro.h"
+	"Pessoa.h"
 

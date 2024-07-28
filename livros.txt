@@ -1,50 +1,55 @@
-978-3-16-148410-0	Robert C. Martin	Clean Code	Programacao	1	2008	8	11
-978-0-7432-7356-5	Steve McConnell	Code Complete	Programacao	2	2004	6	9
-978-0-452-28423-4	Donald E. Knuth	The Art of Computer Programming	Programacao	3	1968	1	1
-978-0-06-112008-4	Scott Meyers	Effective C++	Programacao	4	2005	5	22
-978-1-56619-909-4	Martin Fowler	Refactoring	Programacao	5	1999	7	8
-978-0-7432-7356-6	Joshua Bloch	Effective Java	Programacao	6	2008	5	8
-978-0-7432-7356-7	Andrew S. Tanenbaum	Computer Networks	Redes	7	2003	3	21
-978-0-7432-7356-8	David A. Patterson	Computer Organization and Design	Arquitetura de Computadores	8	2013	10	11
-978-0-7432-7356-9	John Resig	Pro JavaScript Techniques	Programacao	9	2006	11	15
-978-0-7432-7356-0	Erich Gamma	Design Patterns	Programacao	10	1994	10	21
-978-0-7432-7356-1	Al Sweigart	Automate the Boring Stuff with Python	Programacao	11	2015	4	14
-978-1-4088-5565-2	Don Norman	The Design of Everyday Things	Design	12	1988	9	21
-978-0-399-13573-7	Robin Williams	The Non-Designer's Design Book	Design	13	2014	1	8
-978-0-141-18069-6	Ellen Lupton	Thinking with Type	Design	14	2010	4	28
-978-0-14-103613-7	Kim Goodwin	Designing for the Digital Age	Design	15	2009	3	2
-978-1-5011-8747-5	Donald Norman	Emotional Design	Design	16	2003	7	11
-978-0-452-28424-1	Richard Courant	What is Mathematics?	Matematica	17	1941	8	20
-978-1-4000-7787-2	Paul J. Nahin	An Imaginary Tale	Matematica	18	1998	3	26
-978-0-7432-7356-2	Steven Strogatz	Infinite Powers	Matematica	19	2019	4	2
-978-0-7432-7356-3	Jordan Ellenberg	How Not to Be Wrong	Matematica	20	2014	5	29
-978-0-7432-7356-4	George Polya	How to Solve It	Matematica	21	1945	10	15
-978-0-7432-7356-5	James Gleick	Chaos	Matematica	22	1987	6	19
-978-0-7432-7356-6	Paul Halmos	Naive Set Theory	Matematica	23	1960	12	10
-978-1-4088-5565-7	Morris Kline	Mathematics: The Loss of Certainty	Matematica	24	1980	4	8
-978-1-4088-5565-8	Isaac Asimov	The Realm of Numbers	Matematica	25	1959	5	12
-978-0-399-13573-8	Henri Poincare	The Value of Science	Matematica	26	1905	8	30
-978-0-399-13573-9	Henri Poincare	Science and Hypothesis	Matematica	27	1902	1	12
-978-0-399-13574-0	Raymond L. Bisplinghoff	Aerodynamics and Aircraft Performance	Hidraulica	28	1956	3	20
-978-0-399-13574-1	Frank M. White	Fluid Mechanics	Hidraulica	29	2010	7	18
-978-0-141-18069-7	John D. Anderson	Computational Fluid Dynamics	Hidraulica	30	1995	6	10
-978-0-141-18069-8	Bruce R. Munson	Fundamentals of Fluid Mechanics	Hidraulica	31	2012	9	15
-978-0-141-18069-9	Clayton T. Crowe	Engineering Fluid Mechanics	Hidraulica	32	2005	1	3
-978-1-5011-8747-6	Donald F. Young	Brief Introduction to Fluid Mechanics	Hidraulica	33	2001	3	22
-978-1-5011-8747-7	Joseph H. Spurk	Fluid Mechanics	Hidraulica	34	1997	5	14
-978-0-452-28424-2	Irving H. Shames	Mechanics of Fluids	Hidraulica	35	1992	2	6
-978-1-4000-7787-3	Merle C. Potter	Mechanics of Fluids	Hidraulica	36	1972	11	25
-978-1-4000-7787-4	Bruce R. Munson	Fluid Mechanics	Hidraulica	37	2002	10	8
-978-0-7432-7356-7	Robert W. Fox	Introduction to Fluid Mechanics	Hidraulica	38	2015	6	20
-978-0-7432-7356-8	John M. Cimbala	Fluid Mechanics	Hidraulica	39	2017	9	5
-978-0-7432-7356-9	John D. Anderson	Introduction to Flight	Aeronautica	40	2011	4	14
-978-0-7432-7356-0	Irving H. Shames	Mechanics of Fluids	Hidraulica	41	1992	2	6
-978-1-4088-5565-9	James A. Fay	Introduction to Fluid Mechanics	Hidraulica	42	1965	5	11
-978-0-399-13574-2	Henri Poincare	Science and Hypothesis	Matematica	43	1902	1	12
-978-0-399-13574-3	Frank M. White	Fluid Mechanics	Hidraulica	44	2010	7	18
-978-0-399-13574-4	Raymond L. Bisplinghoff	Aerodynamics and Aircraft Performance	Aeronautica	45	1956	3	20
-978-0-399-13574-5	John D. Anderson	Computational Fluid Dynamics	Hidraulica	46	1995	6	10
-978-0-399-13574-6	Bruce R. Munson	Fundamentals of Fluid Mechanics	Hidraulica	47	2012	9	15
-978-0-141-18070-0	Clayton T. Crowe	Engineering Fluid Mechanics	Hidraulica	48	2005	1	3
-978-0-14-103613-8	Donald E. Knuth	The Art of Computer Programming	Programacao	49	1968	1	1
-978-1-5011-8747-8	Steven S. Skiena	The Algorithm Design Manual	Programacao	50	2008	10	20
+9783161484100	Robert C. Martin	Clean Code	Programacao	1	2008	8	11
+9780743273565	Steve McConnell	Code Complete	Programacao	2	2004	6	9
+9780452284234	Donald E. Knuth	The Art of Computer Programming	Programacao	3	1968	1	1
+9780061120084	Scott Meyers	Effective C++	Programacao	4	2005	5	22
+9781566199094	Martin Fowler	Refactoring	Programacao	5	1999	7	8
+9780743273566	Joshua Bloch	Effective Java	Programacao	6	2008	5	8
+9780743273567	Andrew S. Tanenbaum	Computer Networks	Redes	7	2003	3	21
+9780743273568	David A. Patterson	Computer Organization and Design	Arquitetura de Computadores	8	2013	10	11
+9780743273569	John Resig	Pro JavaScript Techniques	Programacao	9	2006	11	15
+9780743273560	Erich Gamma	Design Patterns	Programacao	10	1994	10	21
+9780743273561	Al Sweigart	Automate the Boring Stuff with Python	Programacao	11	2015	4	14
+9781408855652	Don Norman	The Design of Everyday Things	Design	12	1988	9	21
+9780399135737	Robin Williams	The NonDesigner's Design Book	Design	13	2014	1	8
+9780141180696	Ellen Lupton	Thinking with Type	Design	14	2010	4	28
+9780141036137	Kim Goodwin	Designing for the Digital Age	Design	15	2009	3	2
+9781501187475	Donald Norman	Emotional Design	Design	16	2003	7	11
+9780452284241	Richard Courant	What is Mathematics?	Matematica	17	1941	8	20
+9781400077872	Paul J. Nahin	An Imaginary Tale	Matematica	18	1998	3	26
+9780743273562	Steven Strogatz	Infinite Powers	Matematica	19	2019	4	2
+9780743273563	Jordan Ellenberg	How Not to Be Wrong	Matematica	20	2014	5	29
+9780743273564	George Polya	How to Solve It	Matematica	21	1945	10	15
+9780743273565	James Gleick	Chaos	Matematica	22	1987	6	19
+9780743273566	Paul Halmos	Naive Set Theory	Matematica	23	1960	12	10
+9781408855657	Morris Kline	Mathematics: The Loss of Certainty	Matematica	24	1980	4	8
+9781408855658	Isaac Asimov	The Realm of Numbers	Matematica	25	1959	5	12
+9780399135738	Henri Poincare	The Value of Science	Matematica	26	1905	8	30
+9780399135739	Henri Poincare	Science and Hypothesis	Matematica	27	1902	1	12
+9780399135740	Raymond L. Bisplinghoff	Aerodynamics and Aircraft Performance	Hidraulica	28	1956	3	20
+9780399135741	Frank M. White	Fluid Mechanics	Hidraulica	29	2010	7	18
+9780141180697	John D. Anderson	Computational Fluid Dynamics	Hidraulica	30	1995	6	10
+9780141180698	Bruce R. Munson	Fundamentals of Fluid Mechanics	Hidraulica	31	2012	9	15
+9780141180699	Clayton T. Crowe	Engineering Fluid Mechanics	Hidraulica	32	2005	1	3
+9781501187476	Donald F. Young	Brief Introduction to Fluid Mechanics	Hidraulica	33	2001	3	22
+9781501187477	Joseph H. Spurk	Fluid Mechanics	Hidraulica	34	1997	5	14
+9780452284242	Irving H. Shames	Mechanics of Fluids	Hidraulica	35	1992	2	6
+9781400077873	Merle C. Potter	Mechanics of Fluids	Hidraulica	36	1972	11	25
+9781400077874	Bruce R. Munson	Fluid Mechanics	Hidraulica	37	2002	10	8
+9780743273567	Robert W. Fox	Introduction to Fluid Mechanics	Hidraulica	38	2015	6	20
+9780743273568	John M. Cimbala	Fluid Mechanics	Hidraulica	39	2017	9	5
+9780743273569	John D. Anderson	Introduction to Flight	Aeronautica	40	2011	4	14
+9780743273560	Irving H. Shames	Mechanics of Fluids	Hidraulica	41	1992	2	6
+9781408855659	James A. Fay	Introduction to Fluid Mechanics	Hidraulica	42	1965	5	11
+9780399135742	Henri Poincare	Science and Hypothesis	Matematica	43	1902	1	12
+9780399135743	Frank M. White	Fluid Mechanics	Hidraulica	44	2010	7	18
+9780399135744	Raymond L. Bisplinghoff	Aerodynamics and Aircraft Performance	Aeronautica	45	1956	3	20
+9780399135745	John D. Anderson	Computational Fluid Dynamics	Hidraulica	46	1995	6	10
+9780399135746	Bruce R. Munson	Fundamentals of Fluid Mechanics	Hidraulica	47	2012	9	15
+9780141180700	Clayton T. Crowe	Engineering Fluid Mechanics	Hidraulica	48	2005	1	3
+9780141036138	Donald E. Knuth	The Art of Computer Programming	Programacao	49	1968	1	1
+9781501187478	Steven S. Skiena	The Algorithm Design Manual	Programacao	50	2008	10	20
+1242531254363	Jose Beselga	A Arvore	Historia	56	1	8	2022
+123	Amelia	sol da madrugada	romance	2253	12	5	2023
+2647456352	Fernando	A madrugada do sol	romance	321	2	12	2022
+275632343243	Martinho	Nos O Turbo	Hidraulica	53	2	10	2002
+123654542	Jose Manel	Heiei	Arte	51	5	12	2022

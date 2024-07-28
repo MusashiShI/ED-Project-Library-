@@ -4,6 +4,7 @@
 
 LIVRO *CriarLivro(char *_isbn, char *_autor, char *_titulo, char *_area, int _id, int _ano, int _mes, int _dia)
 {
+
     LIVRO *L = (LIVRO *)malloc(sizeof(LIVRO));
     L->isbn = (char *)malloc((strlen(_isbn) + 1)*sizeof(char));
     strcpy(L->isbn, _isbn);

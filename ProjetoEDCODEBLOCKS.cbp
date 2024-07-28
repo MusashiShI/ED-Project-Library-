@@ -39,10 +39,22 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="HashingL.h" />
+		<Unit filename="HashingP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="HashingP.h" />
 		<Unit filename="ListaL.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="ListaL.h" />
+		<Unit filename="ListaP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ListaP.h" />
+		<Unit filename="ListaR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ListaR.h" />
 		<Unit filename="Livro.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -55,6 +67,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Requesicao.h" />
+		<Unit filename="Texto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Texto.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

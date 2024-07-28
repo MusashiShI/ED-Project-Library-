@@ -10,23 +10,29 @@
  * \return PESSOA*
  *
  */
-PESSOA *CriarPessoa(int _id, char *_nome, char *_categoria)
+PESSOA *CriarPessoa(char *_id, char *_nome, char *_datan, char *_idfreg)
 {
     PESSOA *P = (PESSOA *)malloc(sizeof(PESSOA));
-    P->NOME = (char *)malloc((strlen(_nome) + 1)*sizeof(char));
-    strcpy(P->NOME, _nome);
-    P->CATEGORIA = (char *)malloc((strlen(_categoria) + 1)*sizeof(char));
-    strcpy(P->CATEGORIA, _categoria);
-    P->ID = _id;
+    P->nome = (char *)malloc((strlen(_nome) + 1)*sizeof(char));
+    strcpy(P->nome, _nome);
+    P->datan = (char *)malloc((strlen(_datan) + 1)*sizeof(char));
+    strcpy(P->datan, _datan);
+    P->ID = (char *)malloc((strlen(_id) + 1)*sizeof(char));
+    strcpy(P->ID, _id);
+    P->idfreg = (char *)malloc((strlen(_idfreg) + 1)*sizeof(char));
+    strcpy(P->idfreg, _idfreg);
+
     return P;
 }
 void MostrarPessoa(PESSOA *P)
 {
-    printf("\tPESSOA: ID: %d [%s] [%s]\n", P->ID, P->NOME, P->CATEGORIA);
+    printf("\tID: [%s] | PESSOA: [%s] | DATA DE NASCIMENTO: [%s] | ID Freguesia: [%s]\n", P->ID, P->nome, P->datan, P->idfreg);
 }
 void DestruirPessoa(PESSOA *P)
 {
-    free (P->NOME);
-    free (P->CATEGORIA);
+    free (P->ID);
+    free (P->nome);
+    free (P->datan);
+    free (P->idfreg);
     free (P);
 }
